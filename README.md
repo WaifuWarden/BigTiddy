@@ -1,2 +1,2 @@
 # BigTiddy
-Website for 
+Website for an AI writing assistant.
